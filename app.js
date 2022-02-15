@@ -131,6 +131,12 @@ function dividing() {
     result1.innerHTML = "";
 }
 
+buttonModules.addEventListener("click", modules1);
+
+function modules1 () {
+    result1.innerHTML = parseFloat(result1.innerHTML) * 0.001
+}
+
 
 buttonequal.addEventListener("click", calc1);
 
