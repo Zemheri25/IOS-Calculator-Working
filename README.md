@@ -1,2 +1,2 @@
 # IOS-Calculator-Working
-![] (İOS_İMAGE/ios.JPG)
+![] (İOS_İMAGE/ios.PNG)
